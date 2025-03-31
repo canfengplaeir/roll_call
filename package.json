@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.17"
+  },
+  "dependencies": {
+    "vue-acrylic": "^0.0.8",
+    "vue-router": "^4.5.0"
+  }
+}
